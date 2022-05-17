@@ -11,6 +11,6 @@ Project Architecture:
 
 ![](architecture/project_architecture.jpg)
 
-Project Architecture:
+Stocks Trade Transactions Tableau Dashboard:
 
 ![](images/Capital_Markets_Stocks_Transactions_Tableau_Dashboard.jpg)
